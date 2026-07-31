@@ -9,7 +9,5 @@
 ## Abstract
 
 ## Citation
-If you use this code or our results in your research, please cite our paper:
 
-```bibtex
 
