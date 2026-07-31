@@ -12,8 +12,4 @@
 If you use this code or our results in your research, please cite our paper:
 
 ```bibtex
-@article{phan2026,
-  title={...},
-  author={Phan, Khac-Lap and Le, Quang-Hung},
-  year={2026}
-}
+
